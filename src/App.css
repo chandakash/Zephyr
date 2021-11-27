@@ -160,7 +160,6 @@ body {
   display: block;
   font-weight: 600;
   box-sizing: border-box;
-  /* padding: 5px; */
   border-radius: 5px;
 }
 .side-menu .main-menu .menu-item.active {
